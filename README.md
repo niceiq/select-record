@@ -9,6 +9,10 @@ record their screen.
   - Launch a screen recording on the selected monitor.
   - Recording runs in the background.
 
+**Dependencies:**  
+  - ffmpeg
+  - dmenu
+
 ## Usage
 
 To start a recording, simply run: `./record.sh`
