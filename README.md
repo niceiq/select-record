@@ -17,7 +17,7 @@ record their screen.
 
 To start a recording, simply run: `./record.sh`
 
-To stop a recording, run `/record.sh --stop` or `/record.sh -s`
+To stop a recording, run `./record.sh --stop` or `./record.sh -s`
 
 You can also add the script to your '/usr/local/bin/' folder to access it via 
 either the terminal or your launcher.
